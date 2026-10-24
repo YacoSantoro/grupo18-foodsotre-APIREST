@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Facturacion (Run)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="facturacion-arca" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.facturacion.FacturacionApplicacion" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
